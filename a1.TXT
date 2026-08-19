@@ -1,3 +1,7 @@
 
 modified a1 file 
+<<<<<<< HEAD
 modified a1 file again
+=======
+modified f1 file again
+>>>>>>> first
